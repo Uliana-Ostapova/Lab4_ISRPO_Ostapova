@@ -64,7 +64,7 @@ git status
 git push
 ```
 Пример картинки:
-![browser](../repo/browser_Ostapova.png)
+![browser](repo/browser_Ostapova.png)
 
 ## LaTeX
 inline-формула: $a^2 + b^2 = c^2$
@@ -72,10 +72,10 @@ block-формула:
 $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
 
 ## Скриншоты
-![browser](../repo/browser_Ostapova.png)
-![backend](../repo/backend_Ostapova.png)
-![terminal](../repo/terminal_Ostapova.png)
-![git](../repo/git_Ostapova.png)
+![browser](repo/browser_Ostapova.png)
+![backend](repo/backend_Ostapova.png)
+![terminal](repo/terminal_Ostapova.png)
+![git](repo/git_Ostapova.png)
 
 ## Заключение
 В ходе лабораторной работы я закрепила навыки работы с Git и создания структуры проекта через терминал, работу с файлами, создание HTML-страницы и консольные приложения на C#.
